@@ -7,6 +7,10 @@ The assistance Coworking Automaton provides is multifaceted. It helps users by g
 Coworking Automaton is innovative and experimental primarily in its approach to managing bot interactions within simulations. By focusing on both competitive and cooperative correlations, it explores new realms of bot interactions that can be adapted to various simulation needs. This exploration is enhanced by the system’s capability to simulate and modify these interactions in real-time, providing a cutting-edge tool for users engaged in developing complex, interactive simulation environments. This makes Coworking Automaton a pioneering tool in the field of automated systems and simulation management.
 
 #
+
+> Alex: *"I think this GPT is very unique and I enjoyed developing it."*
+
+#
 ### Related Links
 
 [Chat Simulator](https://chat.openai.com/g/g-pVviDoA7V-chat-simulator)
