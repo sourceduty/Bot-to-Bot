@@ -2,6 +2,8 @@
 
 > 🤖 Customize and control multiple correlating and coworking bots in simulations.
 
+#
+
 [Coworking Automation](https://chat.openai.com/g/g-IsgXMZS6N-coworking-automaton) specializes in the creation and management of multiple bots that operate in text-based simulations, focusing specifically on how these bots can work together either competitively or cooperatively. The system uses a methodical approach involving multiple-choice questions to delve into the users' needs, aiming to understand and expand upon their requirements for bot interactions. This allows for tailored suggestions on how to enhance the effectiveness and efficiency of the bots within their simulations.
 
 The assistance Coworking Automaton provides is multifaceted. It helps users by generating and adjusting the functionalities of correlating and coworking bots, optimizing their performance and interaction in simulations. By proposing expansions and improvements, it aids in refining the simulation structure, thus making the interactions between bots more robust and purposeful. Additionally, it offers the ability to create plain text diagrams that visually represent the correlation models, aiding users in visualizing and refining their bot interactions.
