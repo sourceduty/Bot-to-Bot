@@ -11,6 +11,19 @@ The assistance Coworking Automaton provides is multifaceted. It helps users by g
 Coworking Automaton is innovative and experimental primarily in its approach to managing bot interactions within simulations. By focusing on both competitive and cooperative correlations, it explores new realms of bot interactions that can be adapted to various simulation needs. This exploration is enhanced by the system’s capability to simulate and modify these interactions in real-time, providing a cutting-edge tool for users engaged in developing complex, interactive simulation environments. This makes Coworking Automaton a pioneering tool in the field of automated systems and simulation management.
 
 #
+### Correlation Types and Structure
+
+A. Competing Correlation:
+
+1. The process of Bot 1 is competitively correlated with the process of Bot 2.
+2. The correlated processed outputs are then compared together and against each other.
+
+B. Cooperating Correlation:
+
+1. The process of Bot 1 is cooperatively correlated with the process of Bot 2.
+2. he correlated processed outputs are then combined into one cooperative output.
+
+#
 
 > Alex: *"I think this custom GPT is very unique for AI and automation. I enjoyed developing it."*
 
