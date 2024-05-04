@@ -35,6 +35,8 @@ B. Cooperating Correlation:
 [Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
 <br>
 [Trading Bot Simulator](https://chat.openai.com/g/g-OCgWKt0lF-trading-bot-simulator)
+<br>
+[Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
