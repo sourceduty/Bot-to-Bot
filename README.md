@@ -21,7 +21,7 @@ A. Competing Correlation:
 B. Cooperating Correlation:
 
 1. The process of Bot 1 is cooperatively correlated with the process of Bot 2.
-2. he correlated processed outputs are then combined into one cooperative output.
+2. The correlated processed outputs are then combined into one cooperative output.
 
 #
 
