@@ -8,7 +8,7 @@ Coworking Automaton is innovative and experimental primarily in its approach to 
 
 #
 
-> Alex: *"I think this GPT is very unique and I enjoyed developing it."*
+> Alex: *"I think this custom GPT is very unique for AI and automation. I enjoyed developing it."*
 
 #
 ### Related Links
