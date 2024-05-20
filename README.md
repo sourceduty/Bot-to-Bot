@@ -30,6 +30,8 @@ B. Cooperating Correlation:
 
 [expanded_automated_coworking_simulation_example.txt](https://github.com/sourceduty/Coworking_Automation/files/15381686/expanded_automated_coworking_simulation_example.txt)
 
+[big_bang_theory_simulation.txt](https://github.com/sourceduty/Coworking_Automation/files/15381694/big_bang_theory_simulation.txt)
+
 #
 
 > Alex: *"I think this custom GPT is very unique for AI and automation. I enjoyed developing it."*
