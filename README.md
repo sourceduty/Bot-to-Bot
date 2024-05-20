@@ -24,6 +24,11 @@ B. Cooperating Correlation:
 2. The correlated processed outputs are then combined into one cooperative output.
 
 #
+### Example Usage
+
+[automated_coworking_simulation_example.txt](https://github.com/sourceduty/Coworking_Automation/files/15380669/automated_coworking_simulation_example.txt)
+
+#
 
 > Alex: *"I think this custom GPT is very unique for AI and automation. I enjoyed developing it."*
 
