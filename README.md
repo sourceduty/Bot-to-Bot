@@ -43,6 +43,8 @@ In both types of correlations, the reaction between the bots is pivotal to the s
 
 > Alex: *"I think this custom GPT is very unique for AI and automation. I enjoyed developing it."*
 
+> "*Every action is a reaction*"
+
 #
 ### Related Links
 
