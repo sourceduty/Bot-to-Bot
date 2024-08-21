@@ -64,6 +64,8 @@ In such a reactor, the dynamics between the bots can be carefully monitored to u
 [Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
 <br>
 [Reactors](https://github.com/sourceduty/Reactors)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
