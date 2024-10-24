@@ -1,6 +1,6 @@
 ![Coworking Automation](https://github.com/sourceduty/Coworking_Automation/assets/123030236/6ff584f7-3c31-4284-bcdb-80861660e628)
 
-> 🤖 Customize and control multiple correlating and coworking bots in simulations.
+> Customize and control multiple correlating and coworking bots in simulations.
 
 #
 
