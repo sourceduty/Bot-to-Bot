@@ -27,19 +27,6 @@ Bot-to-bot correlations refer to the interactions and relationships between two 
 In contrast, cooperative correlations focus on collaboration between bots, where the processes of Bot 1 and Bot 2 complement each other to achieve a shared objective. Instead of competing for the best output, they combine their strengths to produce a unified result. For instance, one bot might handle data collection, while another processes that data to generate insights. This approach is particularly effective when different skill sets or functionalities are needed to complete a task more efficiently. Cooperative bot correlations are commonly seen in complex systems like automated customer service, where one bot might answer initial queries and another escalates more complex issues to human operators or other specialized bots.
 
 #
-### Correlation Types and Structure
-
-A. Competing Correlation:
-
-1. The process of Bot 1 is competitively correlated with the process of Bot 2.
-2. The correlated processed outputs are then compared together and against each other.
-
-B. Cooperating Correlation:
-
-1. The process of Bot 1 is cooperatively correlated with the process of Bot 2.
-2. The correlated processed outputs are then combined into one cooperative output.
-
-#
 ### Reactions
 
 In both types of correlations, the reaction between the bots is pivotal to the success of their interaction. In a competing correlation, the reaction might be one of rivalry, driving each bot to push its limits, while in a cooperating correlation, the reaction could be one of mutual support and adaptability, enhancing the overall process. The nature of this reaction directly influences the efficiency, effectiveness, and eventual outcome of the correlated processes, making it a critical aspect to monitor and refine in any bot-based simulation.
