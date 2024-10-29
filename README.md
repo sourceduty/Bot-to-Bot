@@ -1,4 +1,4 @@
-![Coworking Automation](https://github.com/sourceduty/Coworking_Automation/assets/123030236/6ff584f7-3c31-4284-bcdb-80861660e628)
+![Bots](https://github.com/user-attachments/assets/5e002ed1-3f2e-4996-9a22-823e6e81ea3f)
 
 > Customize and control multiple correlating and coworking bots in simulations.
 
@@ -12,6 +12,8 @@ Coworking Automaton is innovative and experimental primarily in its approach to 
 
 #
 ### Bot-to-Bot
+
+![Coworking Automation](https://github.com/sourceduty/Coworking_Automation/assets/123030236/6ff584f7-3c31-4284-bcdb-80861660e628)
 
 | Correlation Type   | Description                                                                 | Example Use Case                               |
 |--------------------|-----------------------------------------------------------------------------|------------------------------------------------|
