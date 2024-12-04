@@ -10,6 +10,13 @@ The assistance Coworking Automaton provides is multifaceted. It helps users by g
 
 Coworking Automaton is innovative and experimental primarily in its approach to managing bot interactions within simulations. By focusing on both competitive and cooperative correlations, it explores new realms of bot interactions that can be adapted to various simulation needs. This exploration is enhanced by the system’s capability to simulate and modify these interactions in real-time, providing a cutting-edge tool for users engaged in developing complex, interactive simulation environments. This makes Coworking Automaton a pioneering tool in the field of automated systems and simulation management.
 
+```
+Create a new automated coworking simulation.
+Create an example automated coworking simulation.
+Print a cheat sheet for bot-2-bot development.
+Print an example automation bot-2-bot model.
+```
+
 #
 ### Bot-to-Bot
 
