@@ -15,6 +15,7 @@ Develop a new bot-to-bot model.
 Create an example automated coworking simulation.
 Print a cheat sheet for bot-2-bot development.
 Print an example automation bot-2-bot model.
+Develop a new bot-to-bot AI model using .gguf AI models.
 ```
 
 #
