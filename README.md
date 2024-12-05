@@ -138,6 +138,14 @@ Conversely, a bottom-up configuration starts with independent bots operating aut
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 <br>
 [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
+<br>
+[Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
+<br>
+[Computational Networks](https://github.com/sourceduty/Computational_Networks)
+<br>
+[Network Simulator](https://github.com/sourceduty/Network_Simulator)
+<br>
+[Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
